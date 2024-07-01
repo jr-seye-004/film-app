@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.film-card {
+  border: 1px solid #ddd;
+  padding: 16px;
+  margin: 16px;
+}
+
+.film-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.filter {
+  margin: 16px;
+}
+
+.add-film-form {
+  margin: 16px;
+}
